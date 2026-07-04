@@ -1,141 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Binori%20Behera&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Strategy%20%C3%97%20Consulting%20%C3%97%20Business%20Analytics&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Binori%20Behera&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Management%20Consulting%20%C3%97%20Strategy%20%C3%97%20Business%20Analytics&descAlignY=55&descSize=22"/>
 
 <a href="https://github.com/binoribehera">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=900&lines=M.Sc.+Economics+%26+Management;Aspiring+Management+Consultant;Strategy+%7C+Business+Analytics+%7C+HR+Strategy;Turning+Business+Problems+Into+Strategic+Solutions;Data+Driven+Decision+Making" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=6E40C9&center=true&width=900&lines=M.Sc.+Economics+%26+Management+%40+IIIT+Lucknow;Aspiring+Management+Consultant;Business+Strategy+%7C+HR+Strategy+%7C+Analytics;Turning+Business+Problems+into+Strategic+Solutions"/>
 </a>
+
+</div>
+
+---
+
+# 👋 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+```text
+Name        : Binori Behera
+
+Education   : M.Sc. Economics & Management
+               IIIT Lucknow
+
+Current Role: HR Intern
+               Emami Paper Mills Ltd.
+
+Career Goal : Management Consulting
+
+Interests   :
+✔ Business Strategy
+✔ HR Strategy & L&D
+✔ Business Analytics
+✔ Corporate Finance
+✔ Market Research
+✔ Operations Improvement
+
+Mission :
+Helping organizations solve business problems through
+structured thinking, analytics, and strategic recommendations.
+```
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=binoribehera&style=flat-square&color=6E40C9)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN)
-
-[![GitHub followers](https://img.shields.io/github/followers/binoribehera?style=flat-square&color=6E40C9)](https://github.com/binoribehera)
-
-</div>
-
 ---
 
-# 👨‍💼 About Me
+# 🎯 What I Work On
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```python
-class BinoriBehera:
-
-    education = "M.Sc. Economics & Management | IIIT Lucknow"
-
-    interests = [
-        "Management Consulting",
-        "Business Strategy",
-        "Business Analytics",
-        "HR Strategy",
-        "Market Research",
-        "Corporate Finance"
-    ]
-
-    currently = [
-        "HR Intern @ Emami Paper Mills",
-        "Building Consulting Case Studies",
-        "Business Analytics Projects"
-    ]
-
-    tools = [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Excel",
-        "Statistics"
-    ]
-
-    motto = "Solve problems. Create value. Drive impact."
+```
+                 Business Challenge
+                         │
+                         ▼
+               Problem Identification
+                         │
+                         ▼
+                Research & Analysis
+                         │
+                         ▼
+                  Business Insights
+                         │
+                         ▼
+            Strategic Recommendations
+                         │
+                         ▼
+                  Business Impact
 ```
 
-<br clear="right"/>
+---
+
+# 💼 Professional Experience
+
+### 🏭 Emami Paper Mills Ltd.
+
+**HR Intern (Learning & Development)**
+
+- Training Need Analysis
+- Learning & Development
+- Employee Development
+- HR Strategy
+- Manufacturing HR
+- Process Improvement
 
 ---
 
-# 🚀 What I Do
+### 📊 Aspire Consultants
+
+**Marketing & Finance Intern**
+
+- Market Research
+- Business Development
+- Client Analysis
+- Financial Planning
+- Competitive Analysis
+
+---
+
+### 📈 PredictRAM
+
+**Research Associate**
+
+- Equity Research
+- Financial Analysis
+- Industry Research
+- Business Intelligence
+- Quantitative Analysis
+
+---
+
+# 💡 Areas of Interest
 
 <div align="center">
 
-```
-
-Business Problem
-│
-├── Research
-│
-├── Data Analysis
-│
-├── Business Insights
-│
-├── Strategic Recommendation
-│
-└── Executive Presentation
-
-```
+| Strategy | Consulting | Analytics |
+|-----------|------------|-----------|
+| Business Strategy | Management Consulting | Business Analytics |
+| Corporate Strategy | HR Consulting | Dashboarding |
+| Growth Strategy | Organizational Development | Data Visualization |
+| Competitive Analysis | Process Improvement | Decision Analytics |
 
 </div>
 
-I enjoy solving business problems using structured thinking, quantitative analysis, and strategic frameworks. My work focuses on combining analytics with business understanding to recommend practical, data-driven solutions.
-
 ---
 
-# 💼 Experience
-
-| Company | Role | Focus |
-|----------|------|------|
-| 🏭 Emami Paper Mills | HR Intern | Learning & Development, HR Analytics, Training Need Analysis |
-| 📈 Aspire Consultants | Marketing & Finance Intern | Market Research, Financial Planning, Business Development |
-| 📊 PredictRAM | Research Associate | Financial Research, Quantitative Analysis, Python |
-| 💡 McKinsey Forward | Learner | Problem Solving, Communication, Workplace Skills |
-
----
-
-# 🛠 Tech Stack
+# 🧰 Consulting Toolkit
 
 <div align="center">
 
-### 📊 Analytics
+### Business Strategy
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+SWOT
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+PESTLE
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Porter's Five Forces
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Business Model Canvas
+
+Value Chain
+
+Ansoff Matrix
+
+Balanced Scorecard
 
 ---
 
-### 📈 Business
+### HR Strategy
 
-![Strategy](https://img.shields.io/badge/Business_Strategy-FF6B6B?style=for-the-badge)
+Training Need Analysis
 
-![Consulting](https://img.shields.io/badge/Management_Consulting-6E40C9?style=for-the-badge)
+Learning & Development
 
-![HR](https://img.shields.io/badge/HR_Analytics-0EA5E9?style=for-the-badge)
+Employee Engagement
 
-![Finance](https://img.shields.io/badge/Corporate_Finance-10B981?style=for-the-badge)
+Performance Management
 
-![Research](https://img.shields.io/badge/Market_Research-F97316?style=for-the-badge)
+Competency Mapping
+
+Training Effectiveness
+
+---
+
+### Business Analytics
+
+Power BI
+
+Excel
+
+SQL
+
+Python
+
+Statistics
+
+Business Dashboards
+
+KPI Analysis
+
+---
+
+### Research
+
+Primary Research
+
+Secondary Research
+
+Survey Design
+
+Market Analysis
+
+Competitive Benchmarking
+
+Report Writing
+
+Executive Presentation
 
 </div>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-| Project | Domain | Skills |
-|----------|---------|---------|
-| 📚 Learning & Development Analytics | HR Strategy | Training Need Analysis, Dashboard |
-| 📊 Business Strategy Simulation | Strategy | CESIM, Decision Making |
-| 📈 Financial Statement Analysis | Finance | Ratio Analysis, Forecasting |
-| 🛒 Business Analytics Dashboard | Analytics | Power BI, SQL, Python |
-| 🎯 Market Research Study | Consulting | Consumer Insights, Survey Analysis |
-| 💼 Consulting Case Studies | Strategy | Profitability, Growth, Market Entry |
+| Project | Domain |
+|---------|---------|
+| 📘 Learning & Development Analytics | HR Consulting |
+| 📊 Business Strategy Simulation | Corporate Strategy |
+| 📈 Financial Statement Analysis | Finance |
+| 📋 Market Research Project | Consulting |
+| 📉 Executive Dashboard | Business Analytics |
+| 🎯 Business Case Studies | Management Consulting |
 
 ---
 
@@ -143,27 +212,27 @@ I enjoy solving business problems using structured thinking, quantitative analys
 
 ```
 
-📁 Consulting-Case-Studies
+📁 Consulting Case Studies
 
-📁 Strategy-Projects
+📁 Strategy Projects
 
-📁 HR-Analytics
+📁 HR Analytics
 
-📁 Finance-Projects
+📁 Business Analytics
 
-📁 Business-Analytics
+📁 Market Research
 
-📁 SQL
+📁 Finance
 
-📁 Python
+📁 Dashboards
 
-📁 PowerBI-Dashboards
+📁 Presentations
 
-📁 Excel-Projects
+📁 Case Competition
 
-📁 Market-Research
+📁 Business Frameworks
 
-📁 Certificates
+📁 Certifications
 
 📁 Resume
 
@@ -171,19 +240,23 @@ I enjoy solving business problems using structured thinking, quantitative analys
 
 ---
 
-# 📈 Consulting Toolkit
+# 🌱 Currently Learning
 
-<div align="center">
+✔ Management Consulting Case Interview
 
-| Strategy | Analytics | HR | Finance |
-|-----------|-----------|----------|----------|
-| SWOT | SQL | L&D | Valuation |
-| PESTLE | Python | TNA | Ratio Analysis |
-| Porter's Five Forces | Excel | HR Analytics | Budgeting |
-| Business Model Canvas | Power BI | Performance | Forecasting |
-| Value Chain | Statistics | Employee Development | Investment Analysis |
+✔ Business Problem Solving
 
-</div>
+✔ HR Strategy
+
+✔ Organizational Development
+
+✔ Strategic Thinking
+
+✔ Executive Storytelling
+
+✔ Business Analytics
+
+✔ Corporate Strategy
 
 ---
 
@@ -192,37 +265,11 @@ I enjoy solving business problems using structured thinking, quantitative analys
 - Python for Financial Analysis
 - Statistics Foundations
 - AI for Managers
-- Agile Project Management
 - Product Management
-- Power BI
+- Agile Project Management
 - Financial Advisory (EY)
-- Goldman Sachs Internal Audit
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=binoribehera&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoribehera&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binoribehera&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binoribehera&theme=tokyo-night&hide_border=true&area=true)](https://github.com/binoribehera)
-
-</div>
+- Goldman Sachs Job Simulation
+- Microsoft Power BI
 
 ---
 
@@ -232,9 +279,7 @@ I enjoy solving business problems using structured thinking, quantitative analys
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Binori_Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-binoribehera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binoribehera)
+[![Email](https://img.shields.io/badge/Gmail-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -242,22 +287,8 @@ I enjoy solving business problems using structured thinking, quantitative analys
 
 <div align="center">
 
-> **"Great consultants don't just analyze data—they transform insights into business impact."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
+## *"Great consultants don't provide answers. They solve the right problems."*
 
 </div>
-<!--
-**binoribehera/binoribehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
