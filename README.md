@@ -1,17 +1,4 @@
 <div align="center">
-
-# 💼 Management Consulting Simulation
-
-### By Forage
-
-<img src="https://img.shields.io/badge/Domain-Management%20Consulting-6E40C9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Organization-Forage-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Business%20Strategy-blue?style=for-the-badge"/>
-
 ---
 
 ## 👤 Binori Behera
