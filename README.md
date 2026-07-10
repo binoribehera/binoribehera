@@ -1,5 +1,5 @@
 <div align="center">
-## 👤 Binori Behera
+👤 Binori Behera
 
 ### M.Sc. Economics & Management • IIIT Lucknow
 
