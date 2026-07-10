@@ -1,110 +1,162 @@
 <div align="center">
 
-# 🧠 Introduction to Strategy Consulting
+# 💼 Management Consulting Simulation
 
-### *Building the Consultant Mindset*
+### By Forage
 
-<img src="https://img.shields.io/badge/Forage-Virtual%20Experience-5B2CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Domain-Management%20Consulting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Management%20Consulting-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Organization-Forage-orange?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Business%20Strategy-blue?style=for-the-badge"/>
 
 ---
 
-*"Learning how consultants think before learning what consultants do."*
+## 👤 Binori Behera
+
+### M.Sc. Economics & Management • IIIT Lucknow
+
+*Aspiring Management Consultant*
 
 </div>
 
 ---
 
-# 🌍 About the Program
+# 🌟 About this Simulation
 
-This virtual experience introduced the structured thinking process used by management consulting firms to solve complex business problems.
+This virtual experience simulates the day-to-day work of a Management Consultant.
 
-Instead of jumping directly to solutions, the program emphasized understanding the problem, challenging assumptions, and creating logical frameworks for decision-making.
+During the program, I worked on real consulting-style tasks involving business analysis, strategic thinking, financial modelling, executive communication, and business recommendations.
+
+The experience strengthened my ability to approach ambiguous business problems using structured frameworks and analytical thinking.
 
 ---
 
-# 🎯 What I Learned
+# 🎯 Consulting Skills Developed
 
-✅ Strategic Thinking
-
-✅ Problem Structuring
-
-✅ Critical Thinking
-
-✅ Hypothesis-Driven Analysis
+✅ Business Problem Solving
 
 ✅ Executive Communication
 
-✅ Business Decision Making
+✅ Business Research
+
+✅ Strategic Thinking
+
+✅ Financial Modelling
+
+✅ M&A Analysis
+
+✅ Decision Making
+
+✅ Presentation Skills
 
 ---
 
-# 📚 Practical Activities
+# 📚 Consulting Deliverables
 
-### 🧩 Challenge Mental Models
+📌 Business Summary
 
-Learned how consultants question assumptions and avoid biased decision-making.
-
----
-
-### 📦 Build New Boxes
-
-Applied structured thinking to generate innovative approaches for solving business problems.
+Prepared an executive-level business summary highlighting key challenges, opportunities, and strategic priorities.
 
 ---
 
-# 🚀 Consulting Approach
+📌 Divestiture Interview Guide
 
-```text
-Business Problem
-       │
-       ▼
-Understand Context
-       │
-       ▼
-Challenge Assumptions
-       │
-       ▼
-Generate Ideas
-       │
-       ▼
-Evaluate Alternatives
-       │
-       ▼
-Strategic Recommendation
+Designed an interview framework to support divestiture discussions and stakeholder engagement.
+
+---
+
+📌 Qualitative Synergy Presentation
+
+Evaluated strategic synergies and communicated findings through an executive presentation.
+
+---
+
+📌 Excel Financial Model
+
+Built a financial model to support business decision-making and summarized recommendations.
+
+---
+
+# 💡 What I Learned
+
+- Breaking complex business problems into structured components
+- Performing qualitative business analysis
+- Developing strategic recommendations
+- Supporting M&A and divestiture projects
+- Presenting insights to executives
+- Thinking like a management consultant
+
+---
+
+# 🚀 Business Impact
+
+```
+Business Challenge
+        │
+        ▼
+Business Analysis
+        │
+        ▼
+Strategic Insights
+        │
+        ▼
+Executive Recommendation
+        │
+        ▼
+Business Value
 ```
 
 ---
 
-# 💡 Key Takeaways
+# 🛠 Tools & Competencies
 
-- Every business problem has multiple perspectives.
-- Structured thinking is more valuable than quick answers.
-- Great recommendations come from asking the right questions.
-- Strategy consulting is about creating clarity from ambiguity.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Business%20Strategy-FF6B6B?style=for-the-badge"/>
 
-# 🏆 Skills Developed
+<img src="https://img.shields.io/badge/Financial%20Analysis-10B981?style=for-the-badge"/>
 
-| Business Skills | Professional Skills |
-|-----------------|--------------------|
-| Strategic Thinking | Communication |
-| Problem Solving | Presentation |
-| Critical Thinking | Decision Making |
-| Business Analysis | Structured Reasoning |
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Communication-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Research-F97316?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📜 Certificate
 
-📄 **Strategy_Consulting_Simulation_Forage.pdf**
+📄 **Management_Consulting_Simulation_Forage.pdf**
+
+---
+
+# 📈 My GitHub Journey
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=binoribehera&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binoribehera&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binoribehera&theme=tokyo-night&hide_border=true&area=true)](https://github.com/binoribehera)
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Think Clearly. Structure Logically. Solve Strategically."
+### ⭐ Thank you for visiting!
+
+*"Consulting is about creating clarity from complexity."*
 
 </div>
